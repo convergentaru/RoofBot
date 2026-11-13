@@ -29,7 +29,7 @@
 | [Elevator Pitch](docs/Elevator_Pitch.md) | 30/60-секундная презентация |
 | [Investment Teaser](docs/Investment_Teaser.md) | Одностраничный тизер |
 | [Бизнес-план](docs/Business_Plan.md) | Полный бизнес-план |
-| [Инвестиционный меморандум](docs/Investment_Memorandum.md) | Документ для due diligence |
+| [Инвестиционный меморандум](docs/Investment_Memorandum.md) | Документ для due diligence |\n| [Общий инвестиционный обзор](docs/Investment_Overview.md) | Рынок России, TAM, инвестиции и план выручки 1 млрд ₽ |
 | [Финансовая модель](docs/Financial_Model.md) | Инвестиции, целевая выручка 1 млрд ₽, P&L и сценарии |\n| [Исследование рынка России](docs/Market_Research_Russia_2026.md) | TAM кровельных работ: базовый сценарий 73,2 млрд ₽/год |\n| [Архив предварительных оценок](docs/market-research/archive/Preliminary_Assumptions_2026-11.md) | История исходных цифр, допущений и методики |
 | [Реквизиты компании](COMPANY.md) | ООО «Балтийская кровельная компания» |
 
